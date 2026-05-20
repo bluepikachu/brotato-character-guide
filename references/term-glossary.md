@@ -1,0 +1,187 @@
+# Brotato 中英术语对照
+
+用于把不同来源里的英文角色、武器、道具、属性统一成中文输出。
+
+## 角色
+
+- Well Rounded = 全能者
+- Brawler = 斗士
+- Crazy = 狂人
+- Ranger = 游侠
+- Mage = 法师
+- Chunky = 大壮
+- Old = 老叟
+- Lucky = 幸运星
+- Mutant = 异变体
+- Generalist = 博学家
+- Loud = 大嗓门
+- Multitasker = 多面手
+- Wildling = 野人
+- Pacifist = 和平主义者
+- Gladiator = 角斗士
+- Saver = 节俭者
+- Sick = 病人
+- Farmer = 农夫
+- Ghost = 幽灵
+- Speedy = 飞毛腿
+- Entrepreneur = 企业家
+- Engineer = 工程师
+- Explorer = 探险家
+- Doctor = 医生
+- Hunter = 猎人
+- Technomage = 科技法师
+- Arms Dealer = 军火商
+- Streamer = 网络主播
+- Cyborg = 赛博人
+- Glutton = 暴食
+- Jack = 杰克
+- Lich = 巫妖
+- Apprentice = 学徒
+- Creature = 神秘生物
+- Fisherman = 渔夫
+- Golem = 魔像
+- King = 国王
+- Renegade = 叛徒
+- One-Armed = 独臂
+- Bull = 公牛
+- Soldier = 士兵
+- Masochist = 受虐狂
+- Knight = 骑士
+- Demon = 恶魔
+- Baby = 宝宝
+- Vagabond = 流浪汉
+- Artificer = 技师
+- Druid = 德鲁伊
+- Diver = 潜水员
+- Buccaneer = 海盗
+- Chef = 厨师
+- Builder = 建造者
+- Captain = 船长
+- Romantic = 浪漫之人
+- Hiker = 徒步旅行者
+- Cryptid = 生物
+- Dwarf = 矮人
+- Gangster = 匪徒
+- Sailor = 水手
+- Ogre = 食人魔
+- Vampire = 吸血鬼
+- Curious = 好奇之人
+
+## 属性
+
+- Damage = 伤害
+- Melee Damage = 近战伤害
+- Ranged Damage = 远程伤害
+- Elemental Damage = 元素伤害
+- Engineering = 工程学
+- Attack Speed = 攻速
+- Crit Chance = 暴击率
+- Dodge = 闪避
+- Armor = 护甲
+- Speed = 速度
+- Range = 射程
+- Max HP = 最大生命
+- HP Regeneration = 生命再生
+- Life Steal = 吸血
+- Harvesting = 收获
+- Luck = 幸运
+- Explosion Damage = 爆炸伤害
+- XP Gain = 经验获取
+- Curse = 诅咒
+- Materials = 材料
+
+## 常见武器
+
+- SMG = 冲锋枪
+- Shotgun = 散弹枪
+- Wrench = 扳手
+- Crossbow = 十字弓
+- Slingshot = 弹弓
+- Taser = 电击枪
+- Sickle = 镰刀
+- Ghost Scepter = 幽灵杖
+- Ghost Axe = 幽灵斧
+- Ghost Flint = 幽灵燧石
+- Shredder = 粉碎者
+- Rocket Launcher = 火箭筒
+- Grenade Launcher = 榴弹发射器
+- Nuclear Launcher = 核弹发射器
+- Obliterator = 湮灭者
+- Shuriken = 手里剑
+- Knife = 小刀
+- Fireball = 火球
+- Minigun = 加特林
+- Taser = 电击枪
+- Sickle = 镰刀
+- Spear = 长矛
+- Rock = 石头
+- Torch = 火把
+- Power Fist = 动力拳套
+- Chopper = 修枝刀
+- Thief Dagger = 盗贼匕首
+- Hammer = 锤子
+- Anchor = 船锚
+- Blunderbuss = 老式火枪
+- Harpoon Gun = 鱼叉枪
+- Jousting Lance = 骑枪
+- Screwdriver = 螺丝刀
+- Chainsaw = 电锯
+- Icicle = 冰锥
+- Pruner = 修枝剪刀
+- Lightning Shiv = 雷光刀
+- Plasma Sledge = 等离子大锤
+- Potato Thrower = 土豆投手
+
+## 常见道具与结构
+
+- Pocket Factory = 口袋工厂
+- Laser Turret = 激光炮台
+- Landmines = 地雷
+- Giant Belt = 巨人腰带
+- Scared Sausage = 恐怖香肠
+- Bag = 背包
+- Snake = 蛇
+- Campfire = 营火
+- Candle = 蜡烛
+- Plastic Explosive = 塑胶炸药
+- Ball and Chain = 流星锤
+- Fish Hook = 鱼钩
+- Garden = 菜园
+- Tree = 树
+- Extra Stomach = 额外胃袋
+- Weird Food = 怪异食物
+- Rip and Tear = 撕裂
+- Spicy Sauce = 辣酱
+- Explosive Turret = 爆炸炮台
+- Incendiary Turret = 燃烧炮台
+- Greek Fire = 希腊火
+- Barnacle = 藤壶
+- Power Generator = 发电机
+- Jerky = 肉干
+- Decomposing Flesh = 腐烂血肉
+- Frozen Heart = 冰冻之心
+- Corrupted Shard = 腐化碎片
+- Metal Detector = 金属探测器
+- Lucky Charm = 幸运符
+- Coupon = 优惠券
+- Recycling Machine = 回收机
+- Sharp Bullet = 尖头子弹
+- Cacti Club = 刺棍
+- Doc Moth = 蛾医生
+- Ice Cube = 冰块
+- Builder's Turret = 建造者炮台
+- Alien Worm = 外星蠕虫
+- Dangerous Bunny = 危险兔子
+- Piggy Bank = 存钱罐
+- Padding = 填充物
+- Statue = 雕像
+- Coral = 珊瑚
+- Silver Bullet = 银色子弹
+- Focus = 专注
+- Crown = 王冠
+
+## 输出约定
+
+- 默认输出中文名。
+- 如果英文原词对识别 build 很重要，可写成 `中文（English）`，但只在第一次出现时这么写。
+- 同一段里不要中英混用同一个术语，例如不要同时写“SMG”和“冲锋枪”。
