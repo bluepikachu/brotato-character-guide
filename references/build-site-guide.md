@@ -56,7 +56,7 @@
 
 #### A-Tier
 
-- 技师
+- 技工
 - 狂人
 - 工程师
 - 探险家
@@ -108,7 +108,7 @@
 #### D-Tier
 
 - 军火商
-- 赛博人
+- 赛博格
 - 暴食
 - 节俭者
 - 生物
@@ -140,7 +140,7 @@
 - 狂人：A-Tier
 - 探险家：A-Tier
 - 大嗓门：S-Tier
-- 技师：A-Tier
+- 技工：A-Tier
 - 德鲁伊：A-Tier
 - 潜水员：A-Tier
 - 海盗：A-Tier
@@ -178,7 +178,7 @@
 - 好奇之人：C-Tier
 - 徒步旅行者：C-Tier
 - 浪漫之人：C-Tier
-- 赛博人：D-Tier
+- 赛博格：D-Tier
 - 杰克：D-Tier
 - 生物：D-Tier
 - 病人：F-Tier
@@ -204,7 +204,7 @@
 - 魔像
 - 狂人
 - 探险家
-- 技师
+- 技工
 - 德鲁伊
 - 潜水员
 - 海盗
@@ -244,7 +244,7 @@
 - 好奇之人
 - 徒步旅行者
 - 浪漫之人
-- 赛博人
+- 赛博格
 - 杰克
 - 生物
 - 病人
@@ -596,7 +596,7 @@
   - 适合回答“探险家为什么不是传统正面对拼角色”
   - build 站明确偏向经济/结构而不是纯武器爆发
 
-#### 技师（Artificer）
+#### 技工（Artificer）
 
 - 来源：https://brotato-builds.com/builds/Artificer
 - 标题：Brotato Artificer Build Guide & Best Explosive Setup
@@ -1673,7 +1673,7 @@
   - 回答好奇之人时，不要硬给单一路线
   - 更适合讲“优先级”和“根据掉落转型”
 
-#### 赛博人（Cyborg）
+#### 赛博格（Cyborg）
 
 - 来源：https://brotato-builds.com/builds/Cyborg
 - 标题：Brotato Cyborg Build Guide & Best Ranged Setup
@@ -1695,7 +1695,7 @@
   - Danger 5：Explodeborg
   - Screwdriver + Minigun / Chainsaw 这类利用转化机制的混合路线
 - 可复用结论：
-  - 回答赛博人时不能把它当成纯工程，也不能当纯远程
+  - 回答赛博格时不能把它当成纯工程，也不能当纯远程
   - 关键是“前半波靠枪，后半波靠 Engineering 转化”
 
 #### 杰克（Jack）

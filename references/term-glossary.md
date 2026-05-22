@@ -32,7 +32,7 @@
 - Technomage = 科技法师
 - Arms Dealer = 军火商
 - Streamer = 网络主播
-- Cyborg = 赛博人
+- Cyborg = 赛博格
 - Glutton = 暴食
 - Jack = 杰克
 - Lich = 巫妖
@@ -50,7 +50,7 @@
 - Demon = 恶魔
 - Baby = 宝宝
 - Vagabond = 流浪汉
-- Artificer = 技师
+- Artificer = 技工
 - Druid = 德鲁伊
 - Diver = 潜水员
 - Buccaneer = 海盗
@@ -89,11 +89,23 @@
 - XP Gain = 经验获取
 - Curse = 诅咒
 - Materials = 材料
+- HP = 生命值
+- Boss = Boss
+- Elite = 精英怪
+- Build = 配装 / 路线
+- Early = 前期
+- Mid = 中期
+- Late = 后期
+- DPS = 每秒伤害
+- AOE = 范围伤害
 
 ## 常见武器
 
 - SMG = 冲锋枪
-- Shotgun = 散弹枪
+- Shotgun = 霰弹枪
+- Revolver = 左轮手枪
+- Pistol = 手枪
+- Laser Gun = 激光枪
 - Wrench = 扳手
 - Crossbow = 十字弓
 - Slingshot = 弹弓
@@ -118,6 +130,8 @@
 - Torch = 火把
 - Power Fist = 动力拳套
 - Chopper = 修枝刀
+- Stick = 棍子
+- Plank = 木板
 - Thief Dagger = 盗贼匕首
 - Hammer = 锤子
 - Anchor = 船锚
@@ -129,14 +143,18 @@
 - Icicle = 冰锥
 - Pruner = 修枝剪刀
 - Lightning Shiv = 雷光刀
+- Spoon = 勺子
+- Sniper Gun = 狙击枪
+- Particle Accelerator = 粒子加速器
 - Plasma Sledge = 等离子大锤
-- Potato Thrower = 土豆投手
+- Potato Thrower = 土豆发射器
 
 ## 常见道具与结构
 
 - Pocket Factory = 口袋工厂
 - Laser Turret = 激光炮台
 - Landmines = 地雷
+- Medical Turret = 医疗炮台
 - Giant Belt = 巨人腰带
 - Scared Sausage = 恐怖香肠
 - Bag = 背包
@@ -180,8 +198,26 @@
 - Focus = 专注
 - Crown = 王冠
 
+## 中文旧译名归一
+
+- 霰弹枪 = 霰弹枪
+- 徒步者 = 徒步旅行者
+- 黑帮 = 匪徒
+- 闪电匕首 = 雷光刀
+- 雷光匕首 = 雷光刀
+- 修剪枝 = 修枝剪刀
+- 修剪者 = 修枝剪刀
+- 生命再生 = 生命再生
+- 生命偷取 = 生命窃取
+- 卡特林机枪 = 猫特林机枪
+- 机器人地雷 = 布雷机器人
+- 烈焰使者 = 焰蜥蜴
+- 掠夺蠕虫 = 搜刮冲冲
+- 果冻护盾 = 水母盾
+
 ## 输出约定
 
 - 默认输出中文名。
 - 如果英文原词对识别 build 很重要，可写成 `中文（English）`，但只在第一次出现时这么写。
 - 同一段里不要中英混用同一个术语，例如不要同时写“SMG”和“冲锋枪”。
+- 如果资料里出现中文旧译名，也要归一到这里的当前写法，不要把旧译名直接带到最终回答里。

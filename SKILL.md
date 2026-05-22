@@ -30,7 +30,8 @@ Use this skill when the user:
 4. Use `references/steam-notes.md` and `references/bilibili-general.md` for broader non-character strategy questions.
 5. Only use `references/wiki-notes.md` for objective mechanics, unlocks, or factual clarification.
 6. Normalize English role, weapon, item, and stat names into Chinese before answering.
-7. Answer in Chinese with practical build advice instead of long explanation.
+7. Also normalize legacy Chinese aliases using `references/term-glossary.md` before finalizing the answer.
+8. Answer in Chinese with practical build advice instead of long explanation.
 
 ## Answering rules
 
@@ -39,7 +40,8 @@ Use this skill when the user:
 - Keep the final answer short, practical, and directly executable.
 - Default to Chinese names for roles, weapons, items, and stats.
 - If a Chinese translation exists in `references/term-glossary.md`, do not leave the raw English term in the final answer.
-- Format key gameplay terms as `**\`术语\`**`.
+- If a preferred Chinese name exists in `references/term-glossary.md`, do not leave older Chinese aliases in the final answer either.
+- Format key gameplay terms as `` `术语` ``.
 - Rewrite `Early / Mid / Late` as `前期 / 中期 / 后期` or `开局 / 中期 / 后期`.
 - Do not expose file names like `jump-guide.md` in the visible answer.
 - Refer to the main local notes source as `JUMP攻略`.
