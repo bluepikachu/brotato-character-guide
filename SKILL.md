@@ -18,7 +18,8 @@ Use this skill when the user:
 ## Workflow
 
 1. Identify the character, build, or strategy question.
-2. For character-specific build questions, check at least:
+2. Check `references/character-coverage-index.md` first when the user asks about a specific character.
+3. For character-specific build questions, check at least:
    - `references/steam-guide.md`
    - `references/jump-guide.md`
    - `references/bilibili-guide.md`
@@ -26,12 +27,13 @@ Use this skill when the user:
    - `references/epic-guide.md`
    - `references/build-site-guide.md`
    - `references/term-glossary.md`
-3. Use `references/bilibili-notes.md` when you need extra practical B 站补充。
-4. Use `references/steam-notes.md` and `references/bilibili-general.md` for broader non-character strategy questions.
-5. Only use `references/wiki-notes.md` for objective mechanics, unlocks, or factual clarification.
-6. Normalize English role, weapon, item, and stat names into Chinese before answering.
-7. Also normalize legacy Chinese aliases using `references/term-glossary.md` before finalizing the answer.
-8. Answer in Chinese with practical build advice instead of long explanation.
+4. Use `references/character-coverage-index.md` to skip sources that obviously do not cover that character.
+5. Use `references/steam-notes.md` and `references/bilibili-general.md` for broader non-character strategy questions.
+6. Only use `references/wiki-notes.md` for objective mechanics, unlocks, or factual clarification.
+7. Normalize English role, weapon, item, and stat names into Chinese before answering.
+8. Also normalize legacy Chinese aliases using `references/term-glossary.md` before finalizing the answer.
+9. Answer in Chinese with practical build advice instead of long explanation.
+10. Only use `references/source-links.md` when the user explicitly asks for source origins, original links, or where the guides came from.
 
 ## Answering rules
 
@@ -50,6 +52,8 @@ Use this skill when the user:
 - If a source has no direct character entry, omit that source instead of mentioning its absence.
 - If `Steam攻略` contains multiple clearly different viable routes for the same character, list them separately.
 - If multiple sources mostly agree, merge them into one concise route.
+- Do not show source links in normal build answers.
+- When the user explicitly asks for source origins or original addresses, provide them from `references/source-links.md`.
 
 ## Default output format
 
@@ -81,9 +85,13 @@ Rules:
 - Put the tier directly under the role name.
 - Do not create a separate `# Tier` heading.
 - Leave one blank line above `# Build参考` and `# 其他补充`.
+- Leave one blank line before every `##` heading.
+- Leave one blank line before every `###` heading if a source needs route sub-sections.
 - Do not leave a blank line below `# 其他补充`.
 - Only include `# Build参考` when at least one direct build entry exists.
 - Only include `# 其他补充` when there is genuinely useful extra information.
+- Keep each source section focused; usually no more than 5 bullets per source.
+- Keep `# 其他补充` to at most 3 bullets.
 
 ## Source priority
 
@@ -93,10 +101,9 @@ When sources overlap, use this order:
 2. `jump-guide.md`
 3. `bilibili-guide.md`
 4. `xiaoheihe-guide.md`
-5. `bilibili-notes.md`
-6. `epic-guide.md`
-7. `build-site-guide.md`
-8. `wiki-notes.md` only for factual clarification
+5. `epic-guide.md`
+6. `build-site-guide.md`
+7. `wiki-notes.md` only for factual clarification
 
 ## Reference files
 
@@ -106,9 +113,10 @@ When sources overlap, use this order:
 - `references/xiaoheihe-guide.md`: Cleaned Xiaoheihe character guide
 - `references/steam-guide.md`: Chinese Steam Community character guide organized from the English version
 - `references/steam-notes.md`: Chinese Steam Community general strategy notes organized from the English version
-- `references/bilibili-notes.md`: Extra B 站 notes and route supplements
 - `references/epic-guide.md`: Epic editorial role recommendations
 - `references/build-site-guide.md`: Brotato Builds and other build-site summaries
+- `references/character-coverage-index.md`: Fast source-coverage map for skipping irrelevant files
 - `references/wiki-notes.md`: Objective mechanics and unlock facts
 - `references/source-index.md`: Reference usage map
+- `references/source-links.md`: Original source URLs for users asking where the guides came from
 - `references/term-glossary.md`: Chinese/English term normalization

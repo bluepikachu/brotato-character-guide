@@ -1215,7 +1215,7 @@
   - Mid：转 cursed economy engine，靠 Robot Arm、Mirror、Sad Tomato 把成长继续放大
   - Late：收获足够高后，可以逐步把部分 修枝剪刀 换成 Particle Accelerator / Sniper Gun 这类高伤武器
 
-#### 变异体（Mutant）
+#### 异变体（Mutant）
 
 - 来源：https://brotato-builds.com/builds/Mutant
 - 标题：Brotato Mutant Build Guide & Best XP Scaling Build
@@ -1240,7 +1240,7 @@
   - Double Barrel Shotgun
   - Pistol 作为补位
 - 可复用结论：
-  - 回答变异体时，要强调“等级词条就是主要战力来源”
+  - 回答异变体时，要强调“等级词条就是主要战力来源”
   - 这角色不是靠商店爆发，而是靠升级堆满数值
 
 #### 游侠（Ranger）
@@ -1541,7 +1541,7 @@
   - 回答野人时，可以把它讲成“高吸血 Primitive 套路”
   - 重点不是高阶武器，而是低阶 Primitive 武器数量与数值成长
 
-#### 壮汉（Chunky）
+#### 大壮（Chunky）
 
 - 来源：https://brotato-builds.com/builds/Chunky
 - 标题：Brotato Chunky Build Guide – Best HP & Explosive Build
@@ -1574,7 +1574,7 @@
   - Mid：继续堆 HP，但开始补 Armor，确保能顶着怪群去吃果子
   - Late：转高 HP 高爆炸的 juggernaut 玩法
 
-#### 通才（Generalist）
+#### 博学家（Generalist）
 
 - 来源：https://brotato-builds.com/builds/Generalist
 - 标题：Brotato Generalist Build Guide
@@ -1599,7 +1599,7 @@
   - Ghost Axe
   - Ghost Scepter
 - 可复用结论：
-  - 回答通才时，不应强迫它只走近战或只走远程
+  - 回答博学家时，不应强迫它只走近战或只走远程
   - 核心是“双边一起涨”，而不是平均主义
 
 #### 叛徒（Renegade）
@@ -2019,7 +2019,7 @@
 - 查询某个角色时，现在至少可以拿到：
   - 该站的 Tier
   - 单角色 build 摘记
-  - 与本地 `jump-guide.md` / `bilibili-notes.md` 的聚合空间
+  - 与本地 `jump-guide.md` 的聚合空间
 
 ### TheGamer
 

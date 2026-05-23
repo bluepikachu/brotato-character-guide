@@ -4,16 +4,18 @@
 
 For direct character build questions, default to aggregated lookup:
 
+0. `character-coverage-index.md`
 1. `steam-guide.md`
 2. `jump-guide.md`
 3. `bilibili-guide.md`
 4. `xiaoheihe-guide.md`
-5. `bilibili-notes.md`
-6. `epic-guide.md`
-7. `build-site-guide.md`
-8. `term-glossary.md`
+5. `epic-guide.md`
+6. `build-site-guide.md`
+7. `term-glossary.md`
 
 Only add `wiki-notes.md` when the user is asking for mechanics, unlocks, or factual clarification.
+
+Use `character-coverage-index.md` first to skip sources that obviously do not cover the requested character.
 
 For broader non-character strategy questions, prefer:
 
@@ -30,6 +32,7 @@ For broader non-character strategy questions, prefer:
   - stat priority
   - common failure points
 - Always include this source for almost all direct "这个角色怎么玩" questions
+- But skip it when `character-coverage-index.md` marks the character as not covered here
 
 ## wiki-notes.md
 
@@ -61,17 +64,6 @@ For broader non-character strategy questions, prefer:
   - elite / boss handling
 - Use this when the user asks broader strategy questions rather than one specific character
 - This is the Steam-side companion file to `steam-guide.md`
-
-## bilibili-notes.md
-
-- Source type: Bilibili videos and articles
-- Best for:
-  - Chinese practical summaries
-  - DLC/new character impressions
-  - quick route suggestions
-  - examples that are easier to reuse in Chinese replies
-- Include this source for character queries whenever it has usable notes
-- This is a main supplementary source for character打法
 
 ## bilibili-guide.md
 
@@ -128,6 +120,15 @@ For broader non-character strategy questions, prefer:
 - Important:
   - user-facing output must label this source as `Brotato Builds攻略`
 
+## character-coverage-index.md
+
+- Source type: local source-coverage map
+- Best for:
+  - skipping irrelevant files before reading them
+  - quickly deciding whether `jump-guide.md` / `xiaoheihe-guide.md` / `epic-guide.md` can be ignored
+  - speeding up normal character lookups
+- Read this before expanding to secondary sources
+
 ## term-glossary.md
 
 - Source type: local Chinese/English terminology map
@@ -138,6 +139,15 @@ For broader non-character strategy questions, prefer:
   - avoiding mixed Chinese/English output
 - Use this before finalizing the answer text
 - Default output should prefer Chinese names
+
+## source-links.md
+
+- Source type: original source URL list
+- Best for:
+  - users asking where the guides came from
+  - users asking for original article or video addresses
+  - tracing a visible source label like `Steam攻略` or `Epic攻略` back to its origin
+- Do not include these links in normal character build answers
 
 ## Conflict rules
 
