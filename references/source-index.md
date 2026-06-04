@@ -2,20 +2,30 @@
 
 ## Default query mode
 
-For direct character build questions, default to aggregated lookup:
+For direct character build questions, the fast path is mandatory:
 
 0. `character-coverage-index.md`
 1. `steam-guide.md`
 2. `jump-guide.md`
-3. `bilibili-guide.md`
-4. `xiaoheihe-guide.md`
-5. `epic-guide.md`
-6. `build-site-guide.md`
-7. `term-glossary.md`
+3. `term-glossary.md`
+
+Stop here when these files are already enough.
+
+Only expand beyond the fast path when:
+
+- `character-coverage-index.md` shows the character is missing from a default source
+- the user explicitly wants more source comparison
+- the fast-path sources conflict
+- you need `Tier` or structured补充
+
+If expansion is needed, use `character-coverage-index.md` to choose only the relevant secondary sources:
+
+4. `bilibili-guide.md`
+5. `xiaoheihe-guide.md`
+6. `epic-guide.md`
+7. `build-site-guide.md`
 
 Only add `wiki-notes.md` when the user is asking for mechanics, unlocks, or factual clarification.
-
-Use `character-coverage-index.md` first to skip sources that obviously do not cover the requested character.
 
 For broader non-character strategy questions, prefer:
 

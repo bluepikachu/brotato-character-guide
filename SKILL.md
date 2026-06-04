@@ -18,22 +18,28 @@ Use this skill when the user:
 ## Workflow
 
 1. Identify the character, build, or strategy question.
-2. Check `references/character-coverage-index.md` first when the user asks about a specific character.
-3. For character-specific build questions, check at least:
+2. For specific character questions, always start with `references/character-coverage-index.md`.
+3. The default fast path is mandatory:
    - `references/steam-guide.md`
    - `references/jump-guide.md`
+   - `references/term-glossary.md`
+4. If the fast path is already enough, stop there and answer.
+5. Only expand beyond the fast path when at least one of these is true:
+   - `character-coverage-index.md` shows the character is missing from a default source
+   - the user explicitly wants more source comparison
+   - the fast-path sources clearly conflict
+   - you need `Tier` or structured补充
+6. When expansion is needed, use `character-coverage-index.md` to choose only the relevant sources from:
    - `references/bilibili-guide.md`
    - `references/xiaoheihe-guide.md`
    - `references/epic-guide.md`
    - `references/build-site-guide.md`
-   - `references/term-glossary.md`
-4. Use `references/character-coverage-index.md` to skip sources that obviously do not cover that character.
-5. Use `references/steam-notes.md` and `references/bilibili-general.md` for broader non-character strategy questions.
-6. Only use `references/wiki-notes.md` for objective mechanics, unlocks, or factual clarification.
-7. Normalize English role, weapon, item, and stat names into Chinese before answering.
-8. Also normalize legacy Chinese aliases using `references/term-glossary.md` before finalizing the answer.
-9. Answer in Chinese with practical build advice instead of long explanation.
-10. Only use `references/source-links.md` when the user explicitly asks for source origins, original links, or where the guides came from.
+7. Use `references/steam-notes.md` and `references/bilibili-general.md` only for broader non-character strategy questions.
+8. Only use `references/wiki-notes.md` for objective mechanics, unlocks, or factual clarification.
+9. Normalize English role, weapon, item, and stat names into Chinese before answering.
+10. Also normalize legacy Chinese aliases using `references/term-glossary.md` before finalizing the answer.
+11. Answer in Chinese with practical build advice instead of long explanation.
+12. Only use `references/source-links.md` when the user explicitly asks for source origins, original links, or where the guides came from.
 
 ## Answering rules
 
@@ -54,6 +60,9 @@ Use this skill when the user:
 - If multiple sources mostly agree, merge them into one concise route.
 - Do not show source links in normal build answers.
 - When the user explicitly asks for source origins or original addresses, provide them from `references/source-links.md`.
+- Do not use terminal `grep`, `rg`, `sed`, or `awk` to slice reference files during normal skill use.
+- Read the relevant reference markdown files directly through the skill workflow instead of shell-based slicing.
+- Shell search is only for maintaining the skill itself, not for answering ordinary character/build queries.
 
 ## Default output format
 

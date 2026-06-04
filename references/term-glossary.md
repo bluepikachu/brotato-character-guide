@@ -143,6 +143,7 @@
 - Icicle = 冰锥
 - Pruner = 修枝剪刀
 - Lightning Shiv = 雷光刀
+- Thunder Sword = 雷剑
 - Spoon = 勺子
 - Sniper Gun = 狙击枪
 - Particle Accelerator = 粒子加速器
@@ -205,6 +206,8 @@
 - 黑帮 = 匪徒
 - 闪电匕首 = 雷光刀
 - 雷光匕首 = 雷光刀
+- 雷霆剑 = 雷剑
+- 雷霆刀 = 雷剑
 - 修剪枝 = 修枝剪刀
 - 修剪者 = 修枝剪刀
 - 生命再生 = 生命再生
