@@ -50,6 +50,9 @@ Use this skill when the user:
 - If a Chinese translation exists in `references/term-glossary.md`, do not leave the raw English term in the final answer.
 - If a preferred Chinese name exists in `references/term-glossary.md`, do not leave older Chinese aliases in the final answer either.
 - Format key gameplay terms as `` `术语` ``.
+- Format weapons, stats, items, difficulty names, and key numeric thresholds as code terms.
+- Do not format character names, source labels, or headings as code terms.
+- Do not wrap full sentences in code formatting.
 - Rewrite `Early / Mid / Late` as `前期 / 中期 / 后期` or `开局 / 中期 / 后期`.
 - Do not expose file names like `jump-guide.md` in the visible answer.
 - Refer to the main local notes source as `JUMP攻略`.
